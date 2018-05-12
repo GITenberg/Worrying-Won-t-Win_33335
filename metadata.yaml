@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7845
     wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33335#Worrying-Won-t-Win
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-08-03'
 gutenberg_type: Text
