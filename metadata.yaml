@@ -1,0 +1,50 @@
+_repo: Worrying-Won-t-Win_33335
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glass, Montague
+    aliases:
+    - Marsden, Montague Glass
+    - Glass, Montague Marsden
+    birthdate: 1877
+    deathdate: 1934
+    gutenberg_agent_id: '7845'
+    url: http://www.gutenberg.org/2009/agents/7845
+    wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Caricatures and cartoons'
+- !lcsh 'World War, 1914-1918 -- United States'
+tableOfContents: 'Potash and Perlmutter discuss the Czar business -- Potash and Perlmutter
+  on soap-boxers and peace fellers -- Potash and Perlmutter on financing the war --
+  Potash and Perlmutter on Bernstorff''s expense account -- Potash and Perlmutter
+  discuss on the front page and off -- Potash and Perlmutter on Hooverizing the overhead
+  -- Potash and Perlmutter on foreign affairs -- Potash and Perlmutter on Lordnorthcliffing
+  versus Colonelhousing -- Potash and Perlmutter on national music and national currency
+  -- Potash and Perlmutter on revolutionizing the revolution business -- Potash and
+  Perlmutter discuss the sugar question -- Potash and Perlmutter discuss how to put
+  the spurt in the expert -- Potash and Perlmutter on being an optician and looking
+  on the bright side -- The liquor question: shall it be dry or extra dry? -- Potash
+  and Perlmutter on peace with victory and without brokers, either -- Potash and Perlmutter
+  on keeping it dark -- Potash and Perlmutter on the peace program, including the
+  added extra feature and the supper turn -- Potash and Perlmutter on the new national
+  holidays -- Mr. Wilson: that''s all -- Potash and Perlmutter discuss the grand-opera
+  business -- Potash and Perlmutter discuss the magazine in war-times -- Potash and
+  Perlmutter on saving daylight, coal, and breath -- Potash and Perlmutter discuss
+  why is a play-goer? -- Potash and Perlmutter discuss society: New York, human, and
+  American -- Potash and Perlmutter discuss this here income tax.'
+title: Worrying Won't Win
+url: http://www.gutenberg.org/ebooks/33335
